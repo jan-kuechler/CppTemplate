@@ -1,0 +1,9 @@
+######
+##  Local configuration
+##
+## This is an example file for the local.config file used by the Makefile.
+## Copy this file to local.config to enable local configuration.
+## This file does not belong into any VCS repository!
+
+# Build mode, DEBUG or RELEASE
+MODE = DEBUG

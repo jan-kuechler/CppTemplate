@@ -1,0 +1,10 @@
+# Generated files
+bin/*
+!bin/.keepdir
+build/*
+!build/.keepdir
+dist/*
+!dist/.keepdir
+
+# Local configuration
+local.config
